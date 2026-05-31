@@ -93,5 +93,5 @@ install.packages(c("dplyr", "tidyr", "ggplot2", "stringr"))
 │   └── plot8_white_winrate_by_rating.png
 └── report/
     ├── main.tex
-    └── chess_eda_report.pdf
+    └── Final report.pdf
 ```
